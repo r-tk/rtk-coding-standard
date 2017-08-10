@@ -66,6 +66,11 @@
 		The closing brace for the class must go on the next line after the body
 		-->
 		<exclude name="PSR2.Classes.ClassDeclaration.CloseBraceAfterBody" />
+		<!--
+		Blank line found at start of control structure
+		Blank line found at end of control structure
+		-->
+		<exclude name="Squiz.WhiteSpace.ControlStructureSpacing"/>
 		<!-- tabs not spaces -->
 		<exclude name="Generic.WhiteSpace.DisallowTabIndent"/>
 	</rule>
