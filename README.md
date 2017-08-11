@@ -23,3 +23,9 @@ link `phpcs.xml`
 
 </ruleset>
 ```
+
+## reference
+  * [PHP_CodeSniffer](https://pear.php.net/manual/en/package.php.php-codesniffer.php)
+  * [CakePHP Code Sniffer](https://github.com/cakephp/cakephp-codesniffer)
+  * [Zend Framework Coding Standard](https://github.com/zendframework/zend-coding-standard)
+  * [Yii 2 Web Framework Coding Standard](https://github.com/yiisoft/yii2-coding-standards)
