@@ -4,11 +4,9 @@
 [![License](https://img.shields.io/packagist/l/r-tk/rtk-coding-standard.svg)](https://packagist.org/packages/r-tk/rtk-coding-standard)
 [![Total Downloads](https://img.shields.io/packagist/dt/r-tk/rtk-coding-standard.svg)](https://packagist.org/packages/r-tk/rtk-coding-standard)
 
-add to composer
+install with composer:
 ```
-	"require-dev": {
-		"r-tk/rtk-coding-standard": "*"
-	}
+composer require --dev r-tk/rtk-coding-standard
 ```
 
 link `phpcs.xml`
