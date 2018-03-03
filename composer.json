@@ -3,6 +3,6 @@
 	"description": "RTK Coding Standard",
 	"license": "MIT",
 	"require": {
-		"squizlabs/php_codesniffer": "^3"
+		"squizlabs/php_codesniffer": "*"
 	}
 }
