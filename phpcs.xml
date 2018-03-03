@@ -71,6 +71,10 @@
 		Blank line found at end of control structure
 		-->
 		<exclude name="Squiz.WhiteSpace.ControlStructureSpacing"/>
+		<!--
+		Expected 1 blank line before closing function brace; 0 found
+		-->
+		<exclude name="Squiz.WhiteSpace.FunctionClosingBraceSpace.SpacingBeforeClose"/>
 		<!-- tabs not spaces -->
 		<exclude name="Generic.WhiteSpace.DisallowTabIndent"/>
 	</rule>
